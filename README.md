@@ -6,7 +6,7 @@ Crude Oil Production Forecasting (1992 - 2018): A Time Series Analysis
 The global economy's deep reliance on crude oil necessitates accurately forecasting future production patterns. Given the finite nature of oil resources and its critical role in various industries, oil-producing nations and businesses require reliable production forecasts for strategic decision-making, investment scenario evaluation, and identifying future opportunities. This project addresses the challenge of predicting a country's future crude oil output based on its historical production data.
 
 ## Objective
-To analyze historical crude oil production data from 1992 to 2018 for a specific country and build a robust time series forecasting model using AR, MA, ARMA, and ARIMA methodologies to predict future production trends.
+To analyze historical crude oil production data from 1992 to 2018 for a specific country and build a robust time series forecasting model using AR, MA, ARMA, and ARIMA methodologies to predict future production trends from 2019 to 2025.
 
 ## Key Questions
 What are the underlying trends, seasonality (if any), and stationarity characteristics of the historical crude oil production data?
